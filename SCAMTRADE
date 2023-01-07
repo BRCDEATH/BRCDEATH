@@ -1,0 +1,39 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+local Window = Library.CreateLib("Scam trade", "BloodTheme")
+
+local Tab1 = Window:NewTab("Scam trade")
+
+local Tab1Section = Tab1:NewSection("")
+
+Tab1Section:NewButton("On Scam trade","",function()
+
+   loadstring("https://pastebin.com/raw/LACs6yar")()
+
+end)
+
+Tab1Section:NewButton("Of scam trade","",function()
+
+   game.StarterGui:SetCore("SendNotification", {
+
+    Title = "Of";
+
+    Text = "Made by JLKO TEAM"; -- what the text says (ofc)
+
+    Duration = 9;
+
+})
+
+wait(1)
+
+game.StarterGui:SetCore("SendNotification", {
+
+    Title = "Enjoy";
+
+    Text = "🔥🔥🔥"; -- what the text says (ofc)
+
+    Duration = 9;
+
+})
+
+end)
